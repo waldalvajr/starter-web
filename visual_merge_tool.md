@@ -1,9 +1,11 @@
 # Starter web project 
 
+Simple website etc
+
 ## Introduction
 
 ## Purpose
 
-##Deployment
+## Deployment
 
 ## How to contribute
