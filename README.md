@@ -1,7 +1,8 @@
-# Starter Web Repo
+# Starter web project 
 
-This repository is for showing how Git and GitHub work
+Something very important
+Instagram booty
 
-## Purpose
-
-Sample website with plenty of files for demos
+## Introduction
+To engage a wide array of people
+Giant Lizards
